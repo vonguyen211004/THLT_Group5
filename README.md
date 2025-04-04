@@ -7,7 +7,7 @@
 - Xem thống kê tài chính theo tuần, tháng, hoặc năm
 - Lên kế hoạch chi tiêu và mục tiêu tiết kiệm
 - Nhắc nhở người dùng khi chi tiêu vượt mức và đến hạn thanh toán các hóa đơn
-- 
+
 ## Mục Tiêu Dự Án:
 - Cung cấp một công cụ đơn giản nhưng mạnh mẽ cho người dùng trong việc quản lý tài chính cá nhân.
 - Giúp người dùng lập kế hoạch chi tiêu hiệu quả, từ đó tiết kiệm và đầu tư tốt hơn.
