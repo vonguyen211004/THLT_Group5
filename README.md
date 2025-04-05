@@ -26,7 +26,7 @@
 - **Java (Android):** Sử dụng Java để phát triển các chức năng của ứng dụng mobile trên nền tảng Android.
 - **XML:** Dùng để xây dựng layout giao diện người dùng cho ứng dụng mobile.
 
-## Screenshots
+## Màn hình chính
 ![image](https://github.com/user-attachments/assets/b81337a6-eaa6-4a75-8dc9-0fd695fd26ac) ![image](https://github.com/user-attachments/assets/1dbd0675-338d-4e99-9196-abfa5018240a) ![image](https://github.com/user-attachments/assets/36a4f67c-7825-43d9-9f7b-3df013ce4ece) ![image](https://github.com/user-attachments/assets/a6eccc3e-db7a-4516-b40b-35d997b6306f) ![image](https://github.com/user-attachments/assets/7d462c21-7780-46fb-9fee-1b9538b4e4fe)
 
 ## Hướng Dẫn Sử Dụng
