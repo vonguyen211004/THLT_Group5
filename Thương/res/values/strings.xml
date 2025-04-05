@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FinanceManagement</string>
+    <array name="savings_categories">
+        <item>House</item>
+        <item>Car</item>
+        <item>Travel</item>
+        <item>Education</item>
+        <item>Other</item>
+    </array>
+</resources>

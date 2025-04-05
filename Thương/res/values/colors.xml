@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00D7A3</color>
+    <color name="colorPrimaryDark">#00B386</color>
+    <color name="colorAccent">#00D7A3</color>
+    <color name="colorBackground">#C5FAFAFA</color>
+    <color name="colorText">#333333</color>
+    <color name="colorTextSecondary">#757575</color>
+    <color name="colorGreen">#4CAF50</color>
+    <color name="colorRed">#F44336</color>
+    <color name="colorBlue">#2196F3</color>
+    <color name="colorPurple">#00D7A3</color>
+    <color name="colorCardBackground">#F5F5F5</color>
+    <color name="colorTransparentWhite">#33FFFFFF</color>
+    <!-- Màu nền sáng -->
+    <color name="light_background">#DFEBE5</color>
+
+    <!-- Màu xanh chủ đạo -->
+    <color name="primary_green">#00C27A</color>
+
+    <!-- Các màu khác -->
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="bottom_nav_icon">#000000</color> <!-- Màu icon (đen) -->
+    <color name="bottom_nav_active">#00C896</color> <!-- Màu khi chọn (xanh) -->
+    <color name="light_green">#A5D6A7</color>
+    <color name="nav_icon_color">#000000</color>
+    <color name="nav_text_color">#000000</color>
+
+</resources>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FBD6E7DD"
+    android:gravity="center_horizontal|center_vertical"
+    android:orientation="vertical"
+    android:padding="25pt">
+
+    <TextView
+        android:layout_width="294dp"
+        android:layout_height="65dp"
+        android:layout_marginBottom="10pt"
+        android:background="#009688"
+        android:paddingTop="7pt"
+        android:text="New Category"
+        android:textAlignment="center"
+        android:textAllCaps="false"
+        android:textColor="#FFFFFF"
+        android:textDirection="firstStrongRtl"
+        android:textIsSelectable="false"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/category_name_edittext"
+        android:layout_width="match_parent"
+        android:layout_height="61dp"
+        android:layout_marginBottom="16dp"
+        android:backgroundTint="#22C79F"
+        android:hint="Category Name"
+        android:textAlignment="center"
+        android:visibility="visible" />
+
+    <Button
+        android:id="@+id/save_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:backgroundTint="#009688"
+        android:text="Save" />
+
+    <Button
+        android:id="@+id/cancel_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:backgroundTint="#009688"
+        android:text="Cancel" />
+
+</LinearLayout>
