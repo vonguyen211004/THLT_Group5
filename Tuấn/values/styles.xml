@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base application theme -->
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryDark">@color/primary_dark</item>
+        <item name="colorAccent">@color/accent</item>
+        <item name="android:windowBackground">@color/background_light</item>
+        <item name="android:statusBarColor">@color/primary</item>
+    </style>
+    
+    <!-- Text styles -->
+    <style name="TextHeading">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">@color/text_primary</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    
+    <style name="TextSubheading">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">@color/text_primary</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    
+    <style name="TextBody">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">@color/text_secondary</item>
+    </style>
+    
+    <style name="TextAmount">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    
+    <style name="TextAmountLarge">
+        <item name="android:textSize">24sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/text_primary</item>
+    </style>
+    
+    <!-- Button styles -->
+    <style name="ButtonPrimary" parent="Widget.MaterialComponents.Button">
+        <item name="android:backgroundTint">@color/primary</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="cornerRadius">24dp</item>
+    </style>
+    
+    <style name="ButtonTab" parent="Widget.MaterialComponents.Button.TextButton">
+        <item name="android:textColor">@color/text_primary</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:paddingStart">16dp</item>
+        <item name="android:paddingEnd">16dp</item>
+        <item name="android:paddingTop">8dp</item>
+        <item name="android:paddingBottom">8dp</item>
+    </style>
+    
+    <style name="ButtonTabSelected" parent="ButtonTab">
+        <item name="android:backgroundTint">@color/primary</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+    
+    <!-- Card styles -->
+    <style name="CardView" parent="Widget.MaterialComponents.CardView">
+        <item name="cardCornerRadius">16dp</item>
+        <item name="cardElevation">2dp</item>
+        <item name="contentPadding">16dp</item>
+        <item name="cardBackgroundColor">@color/white</item>
+    </style>
+</resources>
+
