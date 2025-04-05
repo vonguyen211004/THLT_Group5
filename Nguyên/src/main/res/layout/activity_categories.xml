@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/light_green"
+    tools:context=".CategoriesActivity">
+
+    <!-- Top Bar -->
+    <include layout="@layout/top_bar" />
+
+    <!-- Nội dung chính -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:padding="24dp">
+
+        <!-- Nút Savings -->
+        <Button
+            android:id="@+id/btnSavings"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="16dp"
+            android:text="Savings"
+            android:textColor="@android:color/white"
+            android:background="@drawable/button_bg"
+            android:drawableStart="@drawable/ic_savings"
+            android:drawablePadding="12dp"
+            android:padding="12dp" />
+    </LinearLayout>
+
+    <!-- Bottom Navigation Bar -->
+    <include layout="@layout/bottom_navigation" />
+
+</LinearLayout>
