@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme._221121514224_Nguyen" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize the theme here, e.g. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme._221121514224_Nguyen" parent="Base.Theme._221121514224_Nguyen" />
+
+    <!-- Add these two styles to fix the errors -->
+    <style name="Theme._221121514224_Nguyen.AppBarOverlay" parent="ThemeOverlay.Material3.ActionBar" />
+    <style name="Theme._221121514224_Nguyen.PopupOverlay" parent="ThemeOverlay.Material3.Light" />
+</resources>

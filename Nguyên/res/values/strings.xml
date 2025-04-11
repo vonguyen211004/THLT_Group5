@@ -1,0 +1,22 @@
+<resources>
+        <string name="app_name">221121514224_Nguyen</string>
+        <string name="navigation_drawer_open">Open navigation drawer</string>
+        <string name="navigation_drawer_close">Close navigation drawer</string>
+        <string name="nav_header_title">Android Studio</string>
+        <string name="nav_header_subtitle">android.studio@android.com</string>
+        <string name="nav_header_desc">Navigation header</string>
+        <string name="action_settings">Settings</string>
+
+        <string name="menu_home">Home</string>
+        <string name="menu_gallery">Gallery</string>
+        <string name="menu_slideshow">Slideshow</string>
+        <string name="menu_day1_layout">Day1_Layout</string>
+        <string name="menu_day1_linear_layout">Day1_LinearLayout</string>
+        <string name="menu_day2_activity">Day2_Activity</string>
+        <string name="menu_day2_listview">Day2_ListView</string>
+        <string name="menu_day2_listview_advanced">Day2_ListView_Advanced</string>
+        <string name="menu_day3_network_basic">Day3_Network_Basic</string>
+        <string name="menu_day3_network_recyclerview">Day3_Network_RecyclerView</string>
+        <string name="menu_day3_network_weather">Day3_Network_Weather</string>
+        <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
